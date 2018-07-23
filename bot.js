@@ -14,7 +14,7 @@ function tweetIt() {
   // we will randomly pick one of these items in this array
   var arrOfMagicSayings = [
   "I'm about to have a nervous breakdown, my head really hurts, if I don't find a way out of this mall parking lot, I am gonna go berserker!",
-  "I was a teenage anarchist, but the politics were to convenient"
+  "I was a teenage anarchist, but the politics were to convenient",
   "Should I stay or Should I go to bed before 10 PM?",
   "Walking is probably still honest",
   "Quincentuple Your Money with a 401K",
