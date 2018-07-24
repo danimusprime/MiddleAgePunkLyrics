@@ -1,3 +1,4 @@
-//ignore secret.js
+//ignore the following files
 middleagepunklyrics.pem
 secret.js
+node.modules
