@@ -5,7 +5,7 @@ var secret = require('./secret');
 
 var Twitter = new TwitterPackage(secret);
 
-setInterval(tweetIt, 9000*50*10);
+setInterval(tweetIt, 9000*50*3);
 
 tweetIt();
 
@@ -14,6 +14,7 @@ function tweetIt() {
   // we will randomly pick one of these items in this array
   var arrOfMagicSayings = [
   "I'm about to have a nervous breakdown, my head really hurts, if I don't find a way out of this mall parking lot, I am gonna go berserker!",
+  "We're getting older but we're acting younger, We should be smarter, and start eating kale and going to yoga",
   "I was a teenage anarchist, but the politics were to convenient",
   "Should I stay or Should I go to bed before 10 PM?",
   "Walking is probably still honest",
@@ -34,14 +35,15 @@ function tweetIt() {
   "Our vulnerability is all our insensitivity.",
   "You're not punk and I am telling everyone.",
   "Minimum wage is still a gateway drug",
-  "The Only Band That Matters, is what my kids listne too",
+  "The Only Band That Matters, is now what my kids listen too",
   "Clown Cars on Cinderblocks",
   "MAXIMUM Piss & Vinegar",
   "A Headache With Pictures",
   "Wake me up if you play the Clash.",
   "To Shreds, you say?",
-  "Nazi Punks Fuck Off",
-  "Pay to write, pay to play, Pay to work, pay to fight!"
+  "Nazi suburban white collar folks, Fuck Off",
+  "I'm so tired, the sheep are counting me, No more energy, Need a nap to feel complete",
+  "Pay to write, pay to play, Pay to cum, pay to fight!"
   ]
   // calculate the random index (Math.random returns a double between 0 and 1)
   var randomIndex = Math.round(Math.random() * arrOfMagicSayings.length);
