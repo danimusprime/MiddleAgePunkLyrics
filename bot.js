@@ -5,7 +5,16 @@ var secret = require('./secret');
 
 var Twitter = new TwitterPackage(secret);
 
-setInterval(tweetIt, 9000*50*60);
+setInterval(tweetIt, 9000*50*10);
+
+ //function tweetIt() {}
+  (function loop() {
+    var rand = Math.round(Math.random() * (3000 - 500)) + 500;
+    setTimeout(function() {
+            Tweetit();
+            loop();
+    }, rand);
+}());
 
 tweetIt();
 
