@@ -17,17 +17,17 @@ tweetIt();
     "We're getting older but we're acting younger, We should be smarter, and start eating kale and going to yoga",
     "I was a teenage anarchist, but the politics were to convenient",
     "Should I stay or Should I go to bed before 10 PM?",
-    "If your gonna scream, scream with me, car and home payments never last...",
-    "Walking is probably still honest",
+    "If your gonna scream, scream with me, car and home payments never end...",
+    "Walking is probably still honest, but the minivan can hold my whole family on the way to CostCo",
     "Quincentuple Your Money with a 401K",
-    "These 4 wheels feel like home to Me, during my daily work commute. ",
-    "I Don't wanna hear it!",
+    "These 4 wheels feel like home to me, during my daily work commute. ",
+    "I Don't wanna hear it, InfoWars is full of shit!",
     "Sick of being sober, Sick of starting over, Sick of black flag, Sick of cro mags, Sick of the living, Sick of people dying, Sick of the buying, Sick of trying, Sick of television, Sick of telephones, Sick of homophobes, Sick of condos, Sick of the GOP, Sick of liberals",
     "How can I explain my situation, convey all the frustration, When confusion with Ikea instructions are all I find?",
     "I am the one who is searching to destroy the weeds that are consuming my patio",
     "Smooth Jazz Lines.",
     "When you feel like you're a Human Party Trick to Entertain your co-workers at lunch",
-    "Count Your ego's bruises one by one, and drink it off.",
+    "Count your ego's bruises one by one, and drink it off.",
     "Contemplate the NASDAQ down turn on the Tree of Woe.",
     "Kill the Poor, is what the republican party seems to be out to do.",
     "I am Jet Black, I am so old.",
@@ -44,7 +44,9 @@ tweetIt();
     "To Shreds, you say?",
     "Nazi suburban white collar folks, Fuck Off",
     "I'm so tired, the sheep are counting me, No more energy, Need a nap to feel complete",
-    "Pay to write, pay to play, Pay to cum, pay to fight!"
+    "Pay to write, pay to play, Pay to cum, pay to fight!",
+    "I finally got a suburban home, suburban home.",
+    "Trying to get ahead is what I'm supposed to do, No matter what I do I gotta get ahead of you"
     ]
     // calculate the random index (Math.random returns a double between 0 and 1)
     var randomIndex = Math.round(Math.random() * arrOfMagicSayings.length);
