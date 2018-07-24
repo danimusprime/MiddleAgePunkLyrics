@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "punk bot tweets lyrics",
   "dependencies": {
-    "Twitter": "^1.7.1"
+    "twitter": "^1.7.1"
   },
   "buildpacks": {
     "url": "heroku/nodejs"
