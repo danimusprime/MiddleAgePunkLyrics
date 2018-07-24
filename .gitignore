@@ -1,4 +1,3 @@
 //ignore the following files
-middleagepunklyrics.pem
-secret.js
 node.modules
+.env
