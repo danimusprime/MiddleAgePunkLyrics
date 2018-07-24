@@ -2,7 +2,6 @@
   "name": "bot.js",
   "version": "1.0.0",
   "description": "punk bot tweets lyrics",
-  "main": "bot.js",
   "dependencies": {
     "twitter": "^1.7.1"
   },
@@ -12,7 +11,7 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-    //"start": "node bot.js"
+    "start": "node bot.js"
   },
   "repository": {
     "type": "git",
