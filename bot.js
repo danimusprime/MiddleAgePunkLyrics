@@ -5,7 +5,7 @@ var secret = require('./secret');
 
 var Twitter = new TwitterPackage(secret);
 
-setInterval(tweetIt, 1000*60*10)
+setInterval(tweetIt, 1000*60*60)
 
 tweetIt();
 
