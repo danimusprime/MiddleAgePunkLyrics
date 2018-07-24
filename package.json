@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "punk bot tweets lyrics",
   "dependencies": {
+    "dotenv": "^6.0.0",
     "twitter": "^1.7.1"
   },
   "buildpacks": {
