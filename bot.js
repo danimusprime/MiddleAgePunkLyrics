@@ -1,5 +1,5 @@
 
-var TwitterPackage = require('Twitter');
+var TwitterPackage = require('twitter');
 
 var secret = require('./secret');
 
