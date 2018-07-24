@@ -20,6 +20,8 @@ function tweetIt() {
   "Quincentuple Your Money with a 401K",
   "These 4 wheels feel like home to Me, during my daily work commute. ",
   "I Don't wanna hear it!",
+  "Sick of being sober, Sick of starting over, Sick of black flag, Sick of cro mags, Sick of the living, Sick of people dying, Sick of the buying, Sick of trying, Sick of television, Sick of telephones, Sick of homophobes, Sick of condos, Sick of the GOP, Sick of liberals",
+  "How can I explain my situation, convey all the frustration, When confusion with Ikea instructions are all I find?",
   "I am the one who is searching to destroy the weeds that are consuming my patio",
   "Smooth Jazz Lines.",
   "When you feel like you're a Human Party Trick to Entertain your co-workers at lunch",
