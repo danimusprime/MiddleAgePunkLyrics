@@ -1,6 +1,11 @@
 {
   "name": "MiddleAgePunkLyrics",
+  "Version": "1.0.0"
+  "engines": {
+    "node": "10.7.0"
+  }
   "scripts": {
+    "start": "node bot.js"
   },
   "env": {
   },
@@ -10,7 +15,7 @@
 
   ],
   "buildpacks": [
-    {
+    {  
       "url": "heroku/nodejs"
     }
   ]
