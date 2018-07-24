@@ -5,7 +5,7 @@ var secret = require('./secret');
 
 var Twitter = new TwitterPackage(secret);
 
-setInterval(tweetIt, 9000*50*3);
+setInterval(tweetIt, 9000*50*2);
 
 tweetIt();
 
@@ -17,6 +17,7 @@ function tweetIt() {
   "We're getting older but we're acting younger, We should be smarter, and start eating kale and going to yoga",
   "I was a teenage anarchist, but the politics were to convenient",
   "Should I stay or Should I go to bed before 10 PM?",
+  "If your gonna scream, scream with me, car and home payments never last...",
   "Walking is probably still honest",
   "Quincentuple Your Money with a 401K",
   "These 4 wheels feel like home to Me, during my daily work commute. ",
