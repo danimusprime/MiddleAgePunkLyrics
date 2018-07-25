@@ -65,7 +65,7 @@ tweetIt();
         if(error){
           console.log('Something went wrong');
         }
-        console.log(Success);  // Tweet body.
+        console.log('Success');  // Tweet body.
         console.log(response);  // Raw response object.
       });
     };
