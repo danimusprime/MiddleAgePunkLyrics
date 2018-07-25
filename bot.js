@@ -18,6 +18,7 @@ tweetIt();
 
     // we will randomly pick one of these items in this array
     var arrOfMagicSayings = [
+    "There's a metelhead in the parking lot.  It's my son.",
     "I'm about to have a nervous breakdown, my head really hurts, if I don't find a way out of this mall parking lot, I am gonna go berserker!",
     "We're getting older but we're acting younger, We should be smarter, and start eating kale and going to yoga",
     "I was a teenage anarchist, but the politics were to convenient",
@@ -64,7 +65,7 @@ tweetIt();
         if(error){
           console.log('Something went wrong');
         }
-        console.log('Success');  // Tweet body.
+        console.log(Success);  // Tweet body.
         console.log(response);  // Raw response object.
       });
     };
