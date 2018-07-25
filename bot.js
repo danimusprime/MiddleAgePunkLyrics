@@ -1,12 +1,12 @@
 
 var TwitterPackage = require('twitter');
 
-var secret = (){
+var secret = ({
   consumer_key: process.env.consumer_key,
   consumer_secret: process.env.consumer_secret,
   access_token_key: process.env.access_token_key,
   access_token_secret: process.env.access_token_secret
-};
+});
 
 var Twitter = new TwitterPackage(secret);
 
@@ -39,7 +39,7 @@ tweetIt();
     "doublewhiskeycokenoice, got me into trouble at the company christmas party",
     "Better not tell you now, D4 is about to Start.",
     "Our vulnerability is all our insensitivity.",
-    "You're not punk and I am telling everyone.",
+    "I'm not punk and please don't tell anyone.",
     "Minimum wage is still a gateway drug",
     "The Only Band That Matters, is now what my kids listen too",
     "Clown Cars on Cinderblocks",
