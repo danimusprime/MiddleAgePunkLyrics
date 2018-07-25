@@ -1,7 +1,7 @@
 
 var TwitterPackage = require('twitter');
 
-var secret = require('dotenv').config();
+var secret = require('./config');
 
 var Twitter = new TwitterPackage(secret);
 
