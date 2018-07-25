@@ -1,7 +1,7 @@
 
 var TwitterPackage = require('twitter');
 
-var secret = require('./config');
+var secret = require('./secret.js');
 
 var Twitter = new TwitterPackage(secret);
 
