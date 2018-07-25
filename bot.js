@@ -10,7 +10,7 @@ var secret = ({
 
 var Twitter = new TwitterPackage(secret);
 
-setInterval(tweetIt, 1000*60*60)
+setInterval(tweetIt, 1000*60)
 
 tweetIt();
 
