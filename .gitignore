@@ -1,4 +1,4 @@
 //ignore the following files
 node.modules
 .env
-secret.js
+config.js
