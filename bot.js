@@ -10,7 +10,7 @@ var secret = ({
 
 var Twitter = new TwitterPackage(secret);
 
-setInterval(tweetIt, 1000*60*120)
+setInterval(tweetIt, 1000*60*240)
 
 tweetIt();
 
@@ -44,7 +44,7 @@ tweetIt();
     "Minimum wage is still a gateway drug",
     "The Only Band That Matters, is now what my kids listen too",
     "Clown Cars on Cinderblocks",
-    "MAXIMUM Piss & Vinegar",
+    "A sustainable amount of Piss & Vinegar",
     "A Headache With Pictures",
     "Wake me up if you play the Clash.",
     "To Shreds, you say?",
