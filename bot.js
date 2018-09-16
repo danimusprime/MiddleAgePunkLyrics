@@ -18,6 +18,10 @@ tweetIt();
 
     // we will randomly pick one of these items in this array
     var arrOfMagicSayings = [
+    "What they say of the grass on the other side is true, too much time reading the news is turning me blue.",
+    "I was just a stupid kid back then, I take back every word that I said.",
+    "In case your're wondering I am singing about growing up and giving in.",
+    "Cubicles will now suffice, some say it's the roll of the dice, I think they're wrong, I know I'm right.",
     "There's a metelhead in the parking lot.  It's my son.",
     "I'm about to have a nervous breakdown, my head really hurts, if I don't find a way out of this mall parking lot, I am gonna go berserker!",
     "We're getting older but we're acting younger, We should be smarter, and start eating kale and going to yoga",
