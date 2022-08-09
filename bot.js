@@ -1,5 +1,7 @@
 
-var TwitterPackage = require('twitter');
+console.log("Starting the Bot..");
+var TwitterPackage = require('twit');
+// const axios = require('axios');
 
 var secret = ({
   consumer_key: process.env.consumer_key,
@@ -18,7 +20,7 @@ tweetIt();
 
     // we will randomly pick one of these items in this array
     var arrOfMagicSayings = [
-    "I need a holiday, from my holiday in Cambodia"
+    "I need a holiday, from my holiday in Cambodia",
     "What they say of the grass on the other side is true, too much time reading the news is turning me blue.",
     "I was just a stupid kid back then, I take back every word that I said.",
     "In case your're wondering I am tweeting about growing up and giving in.",
@@ -75,7 +77,7 @@ tweetIt();
       //call the post function to tweet something
       Twitter.post('statuses/update', {status: tweet},  function(error, tweet, response){
         if(error){
-          console.log('Something went wrong');
+          console.log(data);
         }
         console.log('Success');  // Tweet body.
         console.log(response);  // Raw response object.
