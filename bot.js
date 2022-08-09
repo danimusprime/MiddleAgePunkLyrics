@@ -62,6 +62,7 @@ tweetIt();
     "Nazi suburban white collar folks, Fuck Off",
     "I'm so tired, the sheep are counting me, No more energy, Need a nap to feel complete",
     "Pay to write, pay to play, Pay to cum, pay to fight!",
+    "Emails politely phrased, everything about me begs 'Don't pass me over, there is rent I gotta pay'",
     "I finally got a suburban home, suburban home.",
     "Trying to get ahead is what I'm supposed to do, No matter what I do I gotta get ahead of you"
     ]
