@@ -18,7 +18,7 @@ tweetIt();
 
     // we will randomly pick one of these items in this array
     var arrOfMagicSayings = [
-    "I need a holiday, from my holiday in Cambodia"
+    "I need a holiday, from my holiday in Cambodia",
     "What they say of the grass on the other side is true, too much time reading the news is turning me blue.",
     "I was just a stupid kid back then, I take back every word that I said.",
     "In case your're wondering I am tweeting about growing up and giving in.",
