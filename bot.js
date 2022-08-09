@@ -18,6 +18,7 @@ tweetIt();
 
     // we will randomly pick one of these items in this array
     var arrOfMagicSayings = [
+    "I need a holiday, from my holiday in Cambodia"
     "What they say of the grass on the other side is true, too much time reading the news is turning me blue.",
     "I was just a stupid kid back then, I take back every word that I said.",
     "In case your're wondering I am tweeting about growing up and giving in.",
@@ -33,7 +34,8 @@ tweetIt();
     "These 4 wheels feel like home to me, during my daily work commute. ",
     "I Don't wanna hear it, InfoWars is full of shit!",
     "I'm all lost in the Supermarket, I cannot find the perpackaged meats...",
-    "Now I got a job, but it don't pay, I need a new Iphone, forget somewhere to stay."
+    "Now I got a job, but it don't pay, I need a new Iphone, forget somewhere to stay.",
+    "I see all my dreams come tumbling down, I can't be happy without my daily nap",
     "Sick of being sober, Sick of starting over, Sick of black flag, Sick of cro mags, Sick of the living, Sick of people dying, Sick of the buying, Sick of trying, Sick of television, Sick of telephones, Sick of homophobes, Sick of condos, Sick of the GOP, Sick of liberals",
     "How can I explain my situation, convey all the frustration, When confusion with Ikea instructions are all I find?",
     "I am the one who is searching to destroy the weeds that are consuming my patio",
@@ -53,7 +55,7 @@ tweetIt();
     "Minimum wage is still a gateway drug",
     "The Only Band That Matters, is now what my kids listen too",
     "Clown Cars on Cinderblocks, is how my work carpool feels.",
-    "A sustainable amount of Piss & Vinegar",
+    "A sustainable amount of Piss & Vinegar for my white collar job",
     "A Headache With Pictures",
     "Wake me up if you play the Clash.",
     "To Shreds, you say?",
